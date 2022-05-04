@@ -29,3 +29,19 @@ form input, form button {
     border: 1px solid #ccc;
     background: white;
 }
+
+form button {
+    color: #ccbae4;
+    background-color: white;
+    cursor: pointer;
+    transition: all 0.3 ease;
+}
+
+form button:hover {
+    background-color: #ccbae4;
+    color: white;
+}
+
+.todo-container{
+    
+}
